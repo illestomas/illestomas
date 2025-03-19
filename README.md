@@ -17,6 +17,6 @@ I'm a car enthusiast with a particular love for sportscars and cabriolets. Catch
 When I'm not driving, you’ll find me at the gym almost every day — staying fit keeps me sharp and focused.
 And of course, I love to code and explore new challenges, especially when they involve tackling complex systems or learning new frameworks.
 
-🌍 Connect with Me
-LinkedIn: [your-linkedin](https://www.linkedin.com/in/illestamas/)
+## 🌍 Connect with Me
+LinkedIn: https://www.linkedin.com/in/illestamas
 Email: illestomas.it@gmail.com
