@@ -1,7 +1,9 @@
+##
 👨‍💻 Hi, I'm Tomi! 🚀
 I'm a passionate Full-Stack Developer with a deep love for TypeScript, Node.js, and React. Recently, I've been diving into the world of React Native, building mobile apps and pushing the limits of what's possible on mobile platforms.
 
 When I'm not writing code, you’ll probably find me working on APIs, exploring new technologies, or fine-tuning my latest project. My goal is always to build clean, scalable, and efficient applications that push the boundaries of modern web and mobile development.
+
 
 🛠️ Tech Stack
 Frontend: React, React Native, HTML, CSS
