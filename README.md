@@ -11,6 +11,7 @@ Backend: Node.js, TypeScript, Express
 Database: PostgreSQL, MongoDB, MySQL
 Tools & Libraries: tRPC, AWS, Git, Docker, GitHub Actions, Jest, Vitest
 Others: REST APIs, GraphQL
+
 ## 🚗 In My Free Time
 
 I'm a car enthusiast with a particular love for sportscars and cabriolets. Catch me in the garage or at a local track!
@@ -18,5 +19,6 @@ When I'm not driving, you’ll find me at the gym almost every day — staying f
 And of course, I love to code and explore new challenges, especially when they involve tackling complex systems or learning new frameworks.
 
 ## 🌍 Connect with Me
-LinkedIn: https://www.linkedin.com/in/illestamas
+
+LinkedIn: https://www.linkedin.com/in/illestamas <br/>
 Email: illestomas.it@gmail.com
