@@ -6,7 +6,7 @@ When I'm not writing code, you’ll probably find me working on APIs, exploring 
 
 ## 🛠️ Tech Stack
 
-Frontend: React, React Native, HTML, CSS<br/>
+Frontend: React, React Native<br/>
 Backend: Node.js, TypeScript, Express<br/>
 Database: PostgreSQL, MongoDB, MySQL<br/>
 Tools & Libraries: tRPC, AWS, Git, Docker, GitHub Actions, Jest, Vitest<br/>
